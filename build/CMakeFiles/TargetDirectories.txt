@@ -1,0 +1,3 @@
+/Users/hugo/ProgrammingOg/cpp/morseCode/build/CMakeFiles/MorseCode.dir
+/Users/hugo/ProgrammingOg/cpp/morseCode/build/CMakeFiles/edit_cache.dir
+/Users/hugo/ProgrammingOg/cpp/morseCode/build/CMakeFiles/rebuild_cache.dir
